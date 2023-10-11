@@ -40,10 +40,9 @@ Additional Battery Connections:
 - Motor driver (H-bridge)
 - DC motors (for M1 and M2)
 - Chassis with wheels
-- External battery (12V)
+- External battery (5v or more)
 - Jumper wires
 - Breadboard (optional)
-- Battery
 - Switch
 
 With these components and the provided code, the robot can autonomously detect obstacles and navigate around them. The ultrasonic sensor measures distances, and the motor driver controls the motors to change the robot's direction based on obstacle proximity.
