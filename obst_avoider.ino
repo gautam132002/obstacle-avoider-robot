@@ -42,5 +42,5 @@ void loop() {
     Serial.println("No obstacle. Motor status: Both motors turning clockwise.");
   }
 
-  delay(24e4j00); 
+  delay(200); 
 }
