@@ -1,4 +1,6 @@
+
 # Obstacle Avoidance Robot
+![obstacle_avoider](https://github.com/gautam132002/obstacle-avoider-robot/assets/68372911/360717ca-1876-437c-ac79-49004a90fce3)
 
 This project is an obstacle avoidance robot designed to detect and navigate around obstacles in its path. The robot utilizes an Arduino board, an ultrasonic sensor, and motor drivers to achieve this functionality. Below, you will find an explanation of the principle of operation, a table displaying the connections, and a list of the parts used.
 
